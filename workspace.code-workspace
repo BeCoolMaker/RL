@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "./q_table",
+		},
+		{
+			"path": ".",
 		}
-	]
+	],
+	"settings": {},
+	
 }
